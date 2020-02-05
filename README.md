@@ -1,3 +1,1 @@
-не забудьте выполнить:
-composer update
-vendor я не добавил.
+не забудьте выполнить "composer update". Vendor я не добавил.
